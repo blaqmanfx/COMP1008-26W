@@ -137,7 +137,7 @@ public class Main {
         System.out.printIn(acc1.getName);
       
         // 3. Primitive vs Reference Types
-        
+        Acc
         
         // 4. Constants
       
