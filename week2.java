@@ -166,7 +166,7 @@ class Student {
  
 // MAIN CLASS
  
-public class Main {
+public class week2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
  
